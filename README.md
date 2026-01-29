@@ -1,16 +1,24 @@
-## Hi there 👋
+Backend-focused Python developer building secure REST APIs with FastAPI and PostgreSQL.
 
-<!--
-**Prashanth1602/Prashanth1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on:
+- Designing REST APIs with JWT-based authentication and role-based access
+- Working with relational databases, schema design, and data integrity
+- Structuring backend code with clear separation of concerns
 
-Here are some ideas to get you started:
+### Featured Project: Movie Review API
+FastAPI-based backend implementing JWT authentication, PostgreSQL data models, and RESTful endpoints.  
+Designed with emphasis on API structure, security, and data consistency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repository: https://github.com/Prashanth1602/FastAPI-webapp.git
+
+### Other Work
+Smriti — backend-driven application with authentication and persistent storage.  
+The frontend exists primarily to support backend workflows.
+
+Backend: https://github.com/Prashanth1602/notesApp-backend.git  
+Frontend: https://github.com/Prashanth1602/notesApp-frontend.git
+
+Currently seeking backend internships or junior backend roles focused on API development.
+
+Portfolio: https://prashanth-portfolio-site.vercel.app  
+LinkedIn: https://linkedin.com/in/prashanth-surapaneni
