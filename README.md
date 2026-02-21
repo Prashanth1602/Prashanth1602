@@ -81,18 +81,6 @@ I'm a backend engineer passionate about designing **scalable, secure, and produc
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![Prashanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanth1602&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff)](https://github.com/Prashanth1602)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth1602&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff)](https://github.com/Prashanth1602)
-
-</div>
-
----
-
 ## 🎯 Learning Goals & Current Focus
 
 <table align="center">
