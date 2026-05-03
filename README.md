@@ -74,8 +74,9 @@ I'm a backend engineer passionate about designing **scalable, secure, and produc
 
 | Article | Description |
 |---------|-------------|
-| 🌐 [**Distributed Rate Limiting & Abuse Detection**](https://prashanth-portfolio-site.vercel.app/design-notes/rate-limiting) | Deep dive into rate limiting strategies, token bucket algorithms, and abuse detection patterns for APIs |
-| 🔐 [**Designing JWT Authentication in Movie Review API**](https://github.com/Prashanth1602/Movie-Review-API/blob/main/docs/jwt-auth-design.md) | Comprehensive guide to implementing secure, stateless JWT authentication with dual-token system |
+| [**Distributed Rate Limiting & Abuse Detection**](https://prashanth-portfolio-site.vercel.app/design-notes/rate-limiting) | Deep dive into rate limiting strategies, token bucket algorithms, and abuse detection patterns for APIs |
+| [**Designing JWT Authentication in Movie Review API**](https://github.com/Prashanth1602/Movie-Review-API/blob/main/docs/jwt-auth-design.md) | Comprehensive guide to implementing secure, stateless JWT authentication with dual-token system |
+| [**Designing OAuth 2.0 Design for Movie Review API**] (https://github.com/Prashanth1602/Movie-Review-API/blob/main/docs/OAuth2.0-design.md) | Comprehensive guide to implement and working of OAuth 2.0 |
 
 </div>
 
@@ -126,7 +127,5 @@ I'm a backend engineer passionate about designing **scalable, secure, and produc
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prashanth1602&color=00d9ff&style=flat-square)
-
-*Last updated: February 2026*
 
 </div>
